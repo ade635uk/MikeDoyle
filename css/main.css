@@ -37,6 +37,17 @@ a:visited {
   background-size: cover;
 }
 
+.cl-bg-index{
+    padding: 0px;
+  margin: 0px;
+
+  background-image: url("https://68.media.tumblr.com/9e55ac6995853c2cb93e85db0f23e87f/tumblr_ojud2pmQ9L1sf9tx3o1_1280.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 .anchor {
   display: block;
   padding-top: 40px;
